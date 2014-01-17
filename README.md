@@ -1,4 +1,4 @@
 ChunkyBacon
 ===========
 
-Jeff's main public repo
+Just a placeholder right now...
